@@ -102,5 +102,5 @@ Analyzing other metrics like the drop-off-rate and the homepage-return rate to b
 
 ![image](https://github.com/user-attachments/assets/fdf00c5b-59e7-49d4-ac90-d1addd34d27e)
 
-Therefore the winner is version A.
+Therefore we would recommend keeping version A.
 
