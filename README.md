@@ -96,5 +96,11 @@ After performing post-hoc tests, do you have a single variant winner?
 If the answer is still no, your options are:
 
 Performing another experiment with the winning variants.
-Analyzing other metrics to better understand user behavior with each variant and making the final decision based on that.
-In this case, the website team decided to track drop-off rate and homepage-return rate as well (refer to the previous lesson for definitions of these terms). To add complexity, an error in their data collection process made it impossible to know these rates for version B:
+Analyzing other metrics like the drop-off-rate and the homepage-return rate to better understand user behavior with each variant and making the final decision based on that.
+
+![image](https://github.com/user-attachments/assets/df10fad4-6b99-422f-a46f-e0ba9aacd928)
+
+![image](https://github.com/user-attachments/assets/fdf00c5b-59e7-49d4-ac90-d1addd34d27e)
+
+Therefore the winner is version A.
+
